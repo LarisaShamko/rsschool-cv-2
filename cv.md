@@ -25,10 +25,9 @@ Work as a travel manager over 14 years. Don't have any work experience in IT.
 
 # Education # 
 * Belarusian State University 
-   + International tourism andexcursion management
-* Belarusian State University AdvancedTraining Institute
+   + International tourism and excursion management
+* Belarusian State University Advanced Training Institute
    + Economic cybernetics
-English Upper-Intermidiate.
 _________________________________________________
 # English # 
 Upper-intermidiate. Daily practise of writen and spoken english at work. Speaking practise while participating Work and Travel USA.
