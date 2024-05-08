@@ -93,11 +93,8 @@ display:flex;
 flex-direction: column;
 justify-content: center;
 width: 280px;
-padding-left: 100px;
-}
-
-.section-subtitle {
-  text-transform: uppercase;
+text-align: center;
+text-transform: uppercase;
 }
 
 .section-profile {
