@@ -18,14 +18,28 @@
   }
 
   .nav-link {
+    position: relative;
     text-decoration: none;
     color: rgb(90, 65, 65);
     transition: 0.3s;
+    line-height: 1;
   }
 
   .nav-link:hover {
     cursor: pointer;
     color: rgb(41, 50, 62);
+}
+.nav-link:hover:after {
+  content: "";
+  position: absolute;
+  left: 12px;
+  bottom: -5px;
+  height: 2px;
+  width: 100%;
+  background-color: white;
+  opacity: 0;
+  transition: width 0.3s ease-out;
+
 }
 
   .nav-list {
