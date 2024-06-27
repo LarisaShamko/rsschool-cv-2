@@ -31,9 +31,13 @@ ___________________________________________________
 
 _______________________________________________
 
-# **Work experience** # 
+# ** Experience ** # 
 IT Logia JS intensive 
-
+JavaScript Manual on learn.javascript.ru
+MDN Web Docs Guides "JavaScript Dynamic client-side scripting"
+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+Bogdan Stashzhuk  «JS Basics course»  (11 hours)
+SuperSimpleDev «JavaScript Tutorial Full Course - Beginner to Pro» (22 hours)
 ________________________________________________
 
 # **Education** # 
