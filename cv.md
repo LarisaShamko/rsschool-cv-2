@@ -19,34 +19,3 @@ __________________________________________________________________
 5. VSCode
 
 ___________________________________________________
-
-# Code examples #
-**Merge two sorted arrays into one from CODEWARS:** 
-```function mergeArrays(arr1, arr2) {
-  const newArr = [...arr1, ...arr2];
-  const uniqueNewArr = [...new Set(newArr)];
-  const result = uniqueNewArr.sort ( (a, b) => a - b );
-  return result
-}```
-
-_______________________________________________
-
-# ** Experience ** # 
-IT Logia JS intensive 
-JavaScript Manual on learn.javascript.ru
-MDN Web Docs Guides "JavaScript Dynamic client-side scripting"
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-Bogdan Stashzhuk  «JS Basics course»  (11 hours)
-SuperSimpleDev «JavaScript Tutorial Full Course - Beginner to Pro» (22 hours)
-________________________________________________
-
-# **Education** # 
-* Belarusian State University 
-   + International tourism and excursion management
-* Belarusian State University Advanced Training Institute
-   + Economic cybernetics
-_________________________________________________
-
-# **English** # 
-Upper-intermidiate. Daily practise of writen and spoken English at work. Speaking practise while participating Work and Travel USA.
-__________________________________________
