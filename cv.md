@@ -16,13 +16,13 @@ My goal is to grow professionally in IT. I am interested in working in an intern
 5. VSCode
 
 # Примеры кода #
-Merge two sorted arrays into one
-''function mergeArrays(arr1, arr2) {
+**Merge two sorted arrays into one from CODEWARS**: 
+```function mergeArrays(arr1, arr2) {
   const newArr = [...arr1, ...arr2];
   const uniqueNewArr = [...new Set(newArr)];
   const result = uniqueNewArr.sort ( (a, b) => a - b );
   return result
-}'''
+}```
 
 # Опыт работы # 
 Work as a travel manager over 14 years. Don't have any work experience in IT.
