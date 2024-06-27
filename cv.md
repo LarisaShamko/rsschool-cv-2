@@ -19,3 +19,13 @@ __________________________________________________________________
 5. VSCode
 
 ___________________________________________________
+
+# Code 
+**Merge two sorted arrays into one from CODEWARS:** 
+```function mergeArrays(arr1, arr2) {
+  const newArr = [...arr1, ...arr2];
+  const uniqueNewArr = [...new Set(newArr)];
+  const result = uniqueNewArr.sort ( (a, b) => a - b );
+  return result
+}
+```
