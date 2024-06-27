@@ -29,3 +29,12 @@ ___________________________________________________
   return result
 }
 ```
+___________________________________________________
+# Experience
+IT Logia JS intensive 
+JavaScript Manual on <learn.javascript.ru>
+MDN Web Docs Guides ["JavaScript Dynamic client-side scripting"](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+Bogdan Stashzhuk [«JS Basics course» (11 hours)](https://www.youtube.com/watch?v=CxgOKJh4zWE)
+Bogdan Stashzhuk [Git and GitHub course (4 hours)](https://www.youtube.com/watch?v=O00FTZDxD0o)
+SuperSimpleDev [«JavaScript Tutorial Full Course - Beginner to Pro»](https://www.youtube.com/watch?v=EerdGm-ehJQ)
